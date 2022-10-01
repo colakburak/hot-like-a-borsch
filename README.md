@@ -17,5 +17,7 @@
 ### Lower Module
 ![Schematic Lower Module](https://github.com/colakburak/hot-like-a-borsch/blob/main/assets/Schematic_2.jpeg "Schematic Lower Module")
 
+### Sensor Network
+![Sensor network](https://github.com/colakburak/hot-like-a-borsch/blob/main/assets/sensor_network.jpeg "Sensor network")
 
 Burak & Lorenzo & Elizabete
