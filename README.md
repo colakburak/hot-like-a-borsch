@@ -1,6 +1,11 @@
 # Hot Box
 
-Smart Solution for Gas Stove
+## Smart Solution for Gas Stove
+![First](https://github.com/colakburak/hot-like-a-borsch/blob/main/assets/Front_page.jpeg "First")
+
+![Second](https://github.com/colakburak/hot-like-a-borsch/blob/main/assets/second_page.jpeg "Second")
+
+![Third](https://github.com/colakburak/hot-like-a-borsch/blob/main/assets/features.jpeg "Third")
 
 ## Schematics
 
